@@ -6,3 +6,4 @@ eeeeeeee
 fffffff
 automation 1
 2nd automation
+fully automated
