@@ -4,3 +4,4 @@ cccc
 dddd
 eeeeeeee
 fffffff
+automation 1
